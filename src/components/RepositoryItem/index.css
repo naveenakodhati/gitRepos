@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.list-item-container {
+  list-style-type: none;
+  background-color: #ebeff0;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  height: 100px;
+  width: 100px;
+  align-self: center;
+}
+.item-name {
+  font-size: 17px;
+  text-align: center;
+  font-weight: 600;
+  color: #e73959;
+  padding: 0px;
+}
+.display-items-container {
+  display: flex;
+}
+.items-image {
+  height: 15px;
+  width: 15px;
+  margin-right: 7px;
+  align-self: center;
+}

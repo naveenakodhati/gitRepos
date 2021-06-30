@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.link-item {
+  cursor: pointer;
+  outline: none;
+  padding: 5px;
+  list-style-type: none;
+}
+.styling-background {
+  border-radius: 20px;
+  padding: 7px;
+  border: 2px solid #0284c7;
+}
+
+.button {
+  font-size: 14px;
+  font-weight: 600;
+  background-color: transparent;
+  border: 0px;
+}
